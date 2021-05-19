@@ -1,3 +1,5 @@
+# Deprecated.
+
 # cpposcanvas
 cppos made using JS(maybe React sooner or later) with the canvas element.
 
